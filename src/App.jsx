@@ -19,4 +19,5 @@ const App = () => (
     </footer>
   </div>
 );
-ReactDOM.render(<App />, document.getElementById("app"));
+
+export default App;
